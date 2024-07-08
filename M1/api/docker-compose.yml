@@ -1,12 +1,12 @@
 version: '3.7'
-
 services:
   mysql:
     container_name: Pokemon_db_M1
     build:
       context: .
       dockerfile: ./dockerfile.mysql
-    command: --default-authentication-plugin=mysql_native_password
+    command: --default-authentication-plugin=
+      mysql_native_password
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: 12345678
@@ -27,7 +27,6 @@ services:
       - 3000:3000
     networks:
       - pokemon-network
-
 networks:
   pokemon-network:
 
