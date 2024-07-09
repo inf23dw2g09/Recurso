@@ -57,7 +57,12 @@ export default function App() {
     });
   };
 
-  const createTipo = () => {
+  const createTipo = () => { 
+    const { id, nome } = newTipo;   
+    if (!id || !nome) {
+      alert("Todos os campos são obrigatórios.");
+      return;
+    }
     axios.post(`${baseURL}/Tipo`, newTipo).then(() => {
       fetchTipo();
       setNewTipo({ id: "", nome: "" });
@@ -96,6 +101,11 @@ export default function App() {
   };
 
   const createPokemon = () => {
+    const { id, nome, tipo1 } = newPokemon;   
+    if (!id || !nome || !tipo1 ) {
+      alert("Todos os campos são obrigatórios.");
+      return;
+    }
     axios.post(`${baseURL}/Pokemon`, newPokemon).then(() => {
       fetchPokemon();
       setNewPokemon({ id: "", nome: "", tipo1: "", tipo2: "" });
@@ -134,6 +144,11 @@ export default function App() {
   };
 
   const createTrainer = () => {
+    const { id, nome } = newTrainer;   
+    if (!id || !nome) {
+      alert("Todos os campos são obrigatórios.");
+      return;
+    }
     axios.post(`${baseURL}/Trainer`, newTrainer).then(() => {
       fetchTrainer();
       setNewTrainer({ id: "", nome: "" });
@@ -171,6 +186,11 @@ export default function App() {
   };
 
   const createTeam = () => {
+    const { id, nome, id_trainer } = newTeam;   
+    if (!id || !nome || !id_trainer) {
+      alert("Todos os campos são obrigatórios.");
+      return;
+    }
     axios.post(`${baseURL}/Teams`, newTeam).then(() => {
       fetchTeam();
       setNewTeam({ id: "", nome: "", id_trainer: "" });
@@ -210,6 +230,11 @@ export default function App() {
 };
 
 const createBattles = () => {
+  const { id, team1, team2, winner, date } = newBattles;   
+  if (!id || !team1 || !team2 || !winner || !date) {
+    alert("Todos os campos são obrigatórios.");
+    return;
+  }
   axios.post(`${baseURL}/Battles`, newBattles).then(() => {
       fetchBattles();
       setNewBattles({ id: "", team1: "", team2: "", winner: "", date: "" });
