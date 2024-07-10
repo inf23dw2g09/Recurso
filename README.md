@@ -1,6 +1,6 @@
 # Api Pokémons
 
-##
+##Repositório para hospedar o projeto desenvolvido para Desenvolvimento Web II, uma disciplina do segundo semestre do segundo ano na UMAIA. Desenvolvido pelo Grupo 9.
 
 ##Projeto feito por:
 
