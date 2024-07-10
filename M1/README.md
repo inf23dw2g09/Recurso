@@ -4,7 +4,7 @@ Repository to host the project developed for Desenvolvimento Web II, a 2024 subj
 
 ## Short theme description
 
-This project is an implementation of a task management system utilizing OAuth 2.0 for authentication via GitHub. It is developed to showcase a structured approach to handling various aspects of task management through a set of well-defined RESTful APIs. The project includes Dockerized containers for easy deployment and integration.
+This project is an implementation of a Pokémon management system utilizing OAuth 2.0 for authentication via GitHub. It is developed to showcase a structured approach to handling various aspects of Pokémon management through a set of well-defined RESTful APIs. The project includes Dockerized containers for easy deployment and integration.
 
 ## Repository organization
 
