@@ -92,13 +92,13 @@ Endpoints:
 
 ## Controladores de Autenticação
 
-AuthController: Gere a autenticação de usuários.
+AuthController: Gere a autenticação de utilizadores.
 
 Endpoints:
 
 * GET /login: Mostra a página de login.
 
-* POST /logout: Faz logout do usuário.
+* POST /logout: Faz logout do utilizadores.
 
 * GET /protected: Mostra a página protegida.
 
@@ -106,6 +106,6 @@ Endpoints:
 
 * GET /auth/github/callback: Callback após a autenticação via GitHub.
 
-* GET /me: Mostra os detalhes do usuário autenticado.
+* GET /me: Mostra os detalhes do utilizadores autenticado.
 
-* GET /github/me: Mostra os detalhes do usuário autenticado no GitHub.
+* GET /github/me: Mostra os detalhes do utilizadores autenticado no GitHub.
