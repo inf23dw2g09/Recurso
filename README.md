@@ -27,3 +27,7 @@ Json - (https://www.json.org/json-en.html)
 Yaml - (https://yaml.org/)
 
 React - (https://react.dev)
+
+Documentação Detalhada:
+* [M1](https://github.com/Joaosa330/Recurso/tree/main/M1/Doc_M1)
+* M2
