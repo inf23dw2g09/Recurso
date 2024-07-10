@@ -33,4 +33,4 @@ React - (https://react.dev)
 
 Documentação Detalhada:
 * [M1](https://github.com/Joaosa330/Recurso/tree/main/M1/Doc_M1)
-* M2
+* [M2](https://github.com/inf23dw2g09/Recurso/tree/main/M2/Docs)
