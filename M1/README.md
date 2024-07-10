@@ -16,14 +16,14 @@ This project is an implementation of a Pokémon management system utilizing OAut
 
 | Page      | Image |
 | ----------- | ----------- |
-| Login Page  | ![Drag Racing](prints/image.png)       |
-| Home Page | ![Drag Racing](prints/image-2.png)       |
-| Pokémon Controllers      | ![Drag Racing](prints/image-3.png)       |
-| Trainer Controllers   | ![Drag Racing](prints/image-4.png)       |
-| Tipo Controllers | ![[Drag Racing]()](prints/image-5.png)       |
-| Battles Controllers      | ![Drag Racing](prints/image-6.png)       |
-| Teams Controllers      | ![Drag Racing](prints/image-7.png)       |
-| Docker Containers   | ![Drag Racing](prints/image-1.png)       |
+| Login Page  | ![Pokémons](prints/image.png)       |
+| Home Page | ![Pokémons](prints/image-2.png)       |
+| Pokémon Controllers      | ![Pokémons](prints/image-3.png)       |
+| Trainer Controllers   | ![Pokémons](prints/image-4.png)       |
+| Tipo Controllers | ![[Pokémons]()](prints/image-5.png)       |
+| Battles Controllers      | ![Pokémons](prints/image-6.png)       |
+| Teams Controllers      | ![Pokémons](prints/image-7.png)       |
+| Docker Containers   | ![Pokémons](prints/image-1.png)       |
 
 ## Technologies
 
