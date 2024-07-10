@@ -100,13 +100,13 @@ Endpoints:
 
 *POST /logout: Faz logout do usuário.
 
-GET /protected: Mostra a página protegida.
+*GET /protected: Mostra a página protegida.
 
-GET /auth/github: Autenticação via GitHub.
+*GET /auth/github: Autenticação via GitHub.
 
-GET /auth/github/callback: Callback após a autenticação via GitHub.
+*GET /auth/github/callback: Callback após a autenticação via GitHub.
 
-GET /me: Mostra os detalhes do usuário autenticado.
+*GET /me: Mostra os detalhes do usuário autenticado.
 
-GET /github/me: Mostra os detalhes do usuário autenticado no GitHub.
+*GET /github/me: Mostra os detalhes do usuário autenticado no GitHub.
 
