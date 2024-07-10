@@ -11,7 +11,7 @@ André Rodrigues (a041851@umaia.pt)
 Hugo Martins (a043898@umaia.pt)
 ## Curta descrição e Objetivo do projeto
 
-O objetivo deste trabalho é criar uma aplicação web dedicada aos Pokémons, utilizando Docker para garantir um ambiente consistente. A aplicação permitirá aos usuários autenticar-se via GitHub OAuth 2.0 para login seguro. Seguindo uma abordagem RESTful, a aplicação gerenciará informações sobre Pokémons, treinadores, tipos, equipes, batalhas, proporcionando uma experiência completa e interativa para os usuários interessados neste universo.
+O objetivo deste trabalho é criar uma aplicação web dedicada aos Pokémons, utilizando o Docker para garantir um ambiente consistente. A aplicação permitirá aos utilizadores autenticar-se via GitHub OAuth 2.0 para login seguro. Seguindo uma abordagem RESTful, a aplicação gerenciará informações sobre Pokémons, treinadores, tipos, equipes, batalhas, proporcionando uma experiência completa e interativa para os utilizadores interessados neste universo.
 
 # Aplicações que foram utilizadas neste projeto:
 
