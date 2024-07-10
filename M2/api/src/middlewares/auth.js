@@ -6,7 +6,6 @@ const auth = function (req, res, next) {
     return next();
   }
   console.log("auth failed");
-  res.redirect("/login");
 };
 
 module.exports = auth;

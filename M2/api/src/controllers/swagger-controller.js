@@ -8,8 +8,8 @@ const swaggerDefinition = {
     title: "OAuth2 Pokemon API",
     version: "1.0.0",
     description:
-      "API de Pokemon desenvolvida pelo Grupo02 de Desenvolvimento Web II",
-    contact: { name: "inf-23-dw2-g02" },
+      "API de Pokemon desenvolvida pelo Grupo09 de Desenvolvimento Web II",
+    contact: { name: "inf-23-dw2-g09" },
   },
   servers: [{ url: "http://localhost:" + config.port }],
   paths: {
