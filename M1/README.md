@@ -1,4 +1,4 @@
-# TaskMaster
+# Pokémon
 
 Repository to host the project developed for Desenvolvimento Web II, a 2024 subject at UMAIA. Developed by Group 4 : [@HugoTeixeiraMartins](https://github.com/HugoTeixeiraMartins), [@N0rtenh0](https://github.com/N0rtenh0) and [@Joaosa330](https://github.com/Joaosa330).
 
