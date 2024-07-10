@@ -11,11 +11,13 @@ The objective of M2 is to develop a Web Client Application using ReactJS to acce
 * Report chapters are in [docs folder](Doc_M2).
 * Screenshots are in the [prints folder](Doc_M2).
 
+## Gallery
+
 | Page      | Image |
 | ----------- | ----------- |
-| Login Page  | ![Pokémon](Doc_M2/img1.png)       |
-| Home Page | ![Pokémon](Doc_M2/img2.png)       |
-| Pokémon Controllers      | ![Pokémon](Doc_M2/img3.png)       |
+| Lista de Tipos com Delete(Aplicação dos Métodos GET e DELETE)   | ![Pokémon](Doc_M2/img1.png)       |
+| Update Tipos (Aplicação do Método PUT) | ![Pokémon](Doc_M2/img2.png)       |
+| Create Tipos (Aplicação do Método POST)      | ![Pokémon](Doc_M2/img3.png)       |
 
 ## Technologies
 
