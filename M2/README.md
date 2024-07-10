@@ -13,9 +13,9 @@ The objective of M2 is to develop a Web Client Application using ReactJS to acce
 
 | Page      | Image |
 | ----------- | ----------- |
-| Login Page  | ![Pokémon](Doc_M2/image.png)       |
-| Home Page | ![Pokémon](Doc_M2/image-2.png)       |
-| Pokémon Controllers      | ![Pokémon](Doc_M2/image-3.png)       |
+| Login Page  | ![Pokémon](Doc_M2/img1.png)       |
+| Home Page | ![Pokémon](Doc_M2/img2.png)       |
+| Pokémon Controllers      | ![Pokémon](Doc_M2/img3.png)       |
 
 ## Technologies
 
